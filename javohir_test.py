@@ -10,7 +10,7 @@ ADMIN_ID = 6968399046
 MONGO_URL = "mongodb+srv://tojiyevjavohir67_db_user:jtwASN46W0zU9sw7@cluster0.pysrg0q.mongodb.net/?appName=Cluster0"
 
 CHANNELS = [
-    "@kanal_username"
+    "@clc_kino"
 ]
 
 bot = telebot.TeleBot(TOKEN)
